@@ -28,7 +28,7 @@ Here are some of my recent projects and accomplishments:
 <h3>Recent Blogs posts</h3>
 <!-- BLOG-POST-LIST:START -->
 
-- 📖 [Table Recognition from OCR to Deep Learning](https://medium.com/@c4caesar/table-recognition-from-ocr-to-deep-learning-cbd4a73b1e3f)
+- 📈 [Managing Risk in Investment Portfolios: A Guide to Calculating VAR and CVAR](https://medium.com/@c4caesar/managing-risk-in-investment-portfolios-a-guide-to-calculating-var-and-cvar-23212e49180c)
 
 <!-- BLOG-POST-LIST:END -->
 
