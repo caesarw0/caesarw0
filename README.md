@@ -9,8 +9,6 @@
 
 <h3>About me</h3>
 
-- 📚 I'm currently pursuing my Master's in Data Science at UBC
-
 - 📧 How to reach me **caesar.wongw@gmail.com**
 
 - 😃 Fun fact - I'm an opacarophile 🌄
